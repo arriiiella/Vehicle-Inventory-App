@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UpdateVehicles">
+
+    <EditText
+        android:id="@+id/updateMake2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Make"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateModel2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Model"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateYear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Year"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updatePrice2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="157dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Price"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateLicense2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="204dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="License Number"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateColour2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="253dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Colour"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateDoors2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="298dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Number of Doors"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateTransmission2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="347dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Transmission"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateMileage2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="394dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Mileage"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateFuel2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="440dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Fuel Type"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateEngine2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="492dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Engine Size"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateBody2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="539dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Body Style"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateCondition2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="585dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Condition"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/updateNotes2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="633dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:hint="Notes"
+        android:inputType="textPersonName" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btnUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnUpdate"
+        android:layout_alignBottom="@+id/btnUpdate"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="345dp"
+        android:layout_marginTop="614dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:clickable="true"
+        app:backgroundTint="@color/colorPrimary"
+        app:srcCompat="@drawable/editpen" />
+
+</RelativeLayout>
+</ScrollView>

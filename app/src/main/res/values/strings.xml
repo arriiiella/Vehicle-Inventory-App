@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MMUVehiclesApp.1</string>
+    <string name="addMake">Make</string>
+    <string name="addModel">Model</string>
+    <string name="addYear">Year</string>
+    <string name="addPrice">Price</string>
+    <string name="addLicense">License</string>
+    <string name="addColour">Colour</string>
+    <string name="addDoors">Doors</string>
+    <string name="addTransmission">Transmission</string>
+    <string name="addMileage">Mileage</string>
+    <string name="addFuel">Fuel</string>
+    <string name="addEngine">Engine</string>
+    <string name="addBody">Body Style</string>
+    <string name="addCondition">Condition</string>
+    <string name="addNotes">Notes</string>
+
+    <string name="updateMake">Make</string>
+    <string name="updateModel">Model</string>
+    <string name="updateYear">Year</string>
+    <string name="updatePrice">Price</string>
+    <string name="updateLicense">License</string>
+    <string name="updateColour">Colour</string>
+    <string name="updateDoors">Doors</string>
+    <string name="updateTransmission">Transmission</string>
+    <string name="updateMileage">Mileage</string>
+    <string name="updateFuel">Fuel</string>
+    <string name="updateEngine">Engine</string>
+    <string name="updateBody">Body Style</string>
+    <string name="updateCondition">Condition</string>
+    <string name="updateNotes">Notes</string>
+
+    <string name="viewMake">Make</string>
+    <string name="viewModel">Model</string>
+    <string name="viewYear">Year</string>
+    <string name="viewLicense">License</string>
+    <string name="viewPrice">Price</string>
+    <string name="viewColour">Colour</string>
+    <string name="viewTransmission">Transmission</string>
+    <string name="viewMileage">Mileage</string>
+    <string name="viewFuel">Fuel</string>
+    <string name="viewEngine">Engine</string>
+    <string name="viewDoors">Doors</string>
+    <string name="viewCondition">Condition</string>
+    <string name="viewNotes">Notes</string>
+
+</resources>
